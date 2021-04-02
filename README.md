@@ -9,7 +9,7 @@ Unplash Developers : https://unsplash.com/developers <br/>
 react-infinite-scroll-component :  https://www.npmjs.com/package/react-infinite-scroll-component <br/>
 Netlify deployment link :https://stoic-cori-e00980.netlify.app/<br/>
 
-Internshala profile : https://www.linkedin.com/in/subhamoy-das-21721b18b/
+Linkdin profile : https://www.linkedin.com/in/subhamoy-das-21721b18b/
 
 
 ## Description
